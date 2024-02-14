@@ -4,5 +4,5 @@ metadata:
   name: br-foundation-etl-ingress
 spec:
   lifecycle: production
-  owner: my-team
+  owner: platform multcloud
   type: service
