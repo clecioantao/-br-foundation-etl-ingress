@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: br-foundation-etl-projects
+  teste: clecio-testando
 spec:
   lifecycle: production
   owner: platform multcloud
