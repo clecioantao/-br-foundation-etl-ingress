@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: br-foundation-etl-ingress
-  teste: clecio-testando
+  file_path: teste/Dockerfile
 spec:
   lifecycle: production
   owner: platform multcloud
