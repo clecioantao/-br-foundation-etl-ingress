@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: br-foundation-etl-ingress
   description: Petstore
-  file_path: 
+  file_path: teste/Dockerfile
 spec:
   lifecycle: production
   owner: platform multcloud
