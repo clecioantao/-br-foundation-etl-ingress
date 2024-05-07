@@ -5,6 +5,7 @@ metadata:
   file_path: src/main/docker/Dockerfile
   description: Testes gerais
 spec:
-  lifecycle: production
-  owner: platform multcloud
   type: service
+  lifecycle: qa
+  owner: platform
+  system: system:default/base-system
