@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: teste-apagar-1
-  file_path: Dockerfile
+  name: br-foundation-etl-ingress
+  file_path: teste/Dockerfile
   description: Testes gerais
 spec:
   type: service
