@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: br-foundation-etl-ingress
-  file_path: Dockerfile
+  file_path: teste/Dockerfile
   description: Petstore
 spec:
   lifecycle: production
